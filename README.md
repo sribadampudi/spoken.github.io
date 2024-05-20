@@ -1,6 +1,6 @@
 # spoken.github.io
 <html>
   <body>
-    <body bgcolor="skyblue">
+    <body bgcolor="orange">
   </body>
 </html>
